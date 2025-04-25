@@ -1,0 +1,2 @@
+# quotica-app
+Quoticaベータ版
